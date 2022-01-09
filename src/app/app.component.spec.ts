@@ -1,3 +1,13 @@
+/*
+*File:app.component.spec.ts
+*Author: Szűcs Norbert
+*Copyright: 2022, Szűcs Norbert
+*Group: Szoft II/N
+*Date:2022.01.09
+*Github:https://github.com/Szucs-Norbert
+*Program feladata: Egy pentagon területének kiszámítása. 
+*/
+
 import { TestBed } from '@angular/core/testing';
 import { AppComponent } from './app.component';
 
